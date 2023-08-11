@@ -1,0 +1,40 @@
+Of course! Imagine you and your friends are building a big tower using colorful blocks. Each one of you has a part of the tower, and you all need to make sure that it looks great and stands tall when you put the blocks together.
+
+Having a "single source of truth" means that you all agree to use one special drawing or plan that shows exactly how the tower should look when it's finished. This drawing is like the boss of all the other plans, and everyone follows it to build their part of the tower.
+
+When you have a single source of truth, it helps avoid confusion and mistakes. You and your friends can always check the special drawing if you're not sure how to build your part. It keeps everything clear and makes sure that all the pieces fit together perfectly to create a fantastic tower.
+
+In the same way, in grown-up stuff like computer programs or big projects, a "single source of truth" means that there is one main place where everyone agrees to look for the most accurate and up-to-date information. This helps people work together better and makes sure that everyone is on the same page. It's like having a special guide that helps keep everything organized and working smoothly!
+
+
+Of course! Imagine you have a big box with lots of rooms in your house, and each room has a different toy or game to play with. But you want to move around and play in all the rooms, right? That's where a "router" comes in!
+
+A router is like a magical helper that helps you move freely between all the rooms in your toy box house. It's like a doorkeeper that knows where each room is and how to get there. So, when you want to play with a different toy or game in another room, you just ask the router, and it shows you the way!
+
+But wait, there's more! The router can also help your friends come over to play in your toy box house. It guides them through the right doors to reach the room they want to play in. It's like a friendly guide that makes sure everyone can enjoy all the fun toys in your house.
+
+In real life, a router is a special device that helps connect all the computers, phones, and other gadgets in your home to the internet. It's like the doorkeeper for the internet, making sure you can browse websites, play online games, and do many exciting things with your devices.
+
+So, just like a router in your toy box house helps you move around and play with different toys, a real router helps your devices move around and connect to the internet, so you can have fun and learn lots of new things!
+
+
+In architecture, "application logic" and "router" refer to two different concepts:
+
+Application Logic: Application logic is the set of instructions or rules that define how a software application works. It's like the brain of the application that controls what it does, how it responds to different inputs, and how it processes and manipulates data.
+Imagine you have a robot toy. The application logic for the robot toy would be the list of steps that the robot follows to perform various tasks, like moving around, detecting obstacles, and picking up objects. In a software application, the application logic is written in code and defines the behavior and functionality of the program.
+
+Router (in the context of software architecture): A router is a component in a software application that helps manage how different parts of the application communicate with each other and how they handle incoming requests. It acts like a traffic cop, directing requests to the appropriate parts of the application based on certain rules.
+To understand this concept, let's use an example of a pizza delivery service. The router would be like the person taking orders on the phone. When a customer calls to order a pizza, the router listens to what they want (maybe a large pepperoni pizza) and then decides which kitchen station (application logic) should handle the order. It might send the order to the kitchen that makes pizzas, and if the customer wants a drink too, it will send another order to the kitchen that prepares beverages. The router ensures that each request is handled by the right part of the pizza restaurant (the application logic) to fulfill the customer's order correctly.
+
+In the context of software architecture, the router helps manage the flow of information and requests within a complex application, making sure everything goes to the right place where the application logic can process it properly. This organization and communication between different parts of the application are crucial for the application to work efficiently and provide the expected functionality to users.
+
+
+Sure! Imagine you are playing with a big LEGO castle that you built. The "state" of your LEGO castle is like the current condition it's in at any moment.
+
+For example, if all the LEGO pieces are put together and the castle is standing tall, that's one state. If you take some pieces off and make it shorter, that's a different state. If you add more pieces to make it even bigger, that's yet another state.
+
+In architecture, "state" means the current situation or condition of something, like your LEGO castle. It's like a snapshot of how things are right now. In a computer program or software, "state" can represent various things like the information on a webpage, the progress in a game, or the settings in an app.
+
+Just like you can change the state of your LEGO castle by adding or removing pieces, computer programs can change their state too. They do this by updating or modifying the information they have, just like how you change the look of your LEGO castle by adding or removing pieces.
+
+Understanding the state is essential because it helps the computer program know what's happening and how things should look or work at any given moment. It's like keeping track of what's going on in the program's world, just like you keep track of how your LEGO castle looks while you play with it!
